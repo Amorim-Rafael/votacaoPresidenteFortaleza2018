@@ -1,0 +1,3 @@
+Cargo,Numero,Nome_do_Candidato,Nome_para_Urna,Votos_Nominais,Situacao,%_Validos,Partido,Partido_Coligacao
+Presidente          ,13,FERNANDO HADDAD,FERNANDO HADDAD,739265,Não eleito,"55,61",PT,"13 - PT, 65 - PC do B, 90 - PROS"
+Presidente          ,17,JAIR MESSIAS BOLSONARO,JAIR BOLSONARO,590033,Eleito,"44,39",PSL,"17 - PSL, 28 - PRTB"
